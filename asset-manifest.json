@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-shop-app/static/css/main.ceba8439.css",
+    "main.js": "/react-shop-app/static/js/main.9d30ac6a.js",
+    "static/media/hero-1.jpg": "/react-shop-app/static/media/hero-1.5af1a8f498084d747649.jpg",
+    "static/media/Shopping_Cart.gif": "/react-shop-app/static/media/Shopping_Cart.36c03f4e6ae3cab4ca82.gif",
+    "static/media/logo.png": "/react-shop-app/static/media/logo.70d39ed46e167530f1e8.png",
+    "static/media/hero-2.jpg": "/react-shop-app/static/media/hero-2.3eaa92a738c95690760d.jpg",
+    "static/media/i-3.png": "/react-shop-app/static/media/i-3.4b0ba665065c79fe347a.png",
+    "static/media/4.svg": "/react-shop-app/static/media/4.2c6d6f34b248b591081282de1bdf9210.svg",
+    "static/media/2.svg": "/react-shop-app/static/media/2.996b5f03a4aa8e66fcf0a5cf6282c748.svg",
+    "static/media/1.svg": "/react-shop-app/static/media/1.9259fd424750ea7bbdb96808323938f5.svg",
+    "static/media/3.svg": "/react-shop-app/static/media/3.161f2f1cf2c0b434f1e3a8102fbd66fa.svg",
+    "index.html": "/react-shop-app/index.html",
+    "main.ceba8439.css.map": "/react-shop-app/static/css/main.ceba8439.css.map",
+    "main.9d30ac6a.js.map": "/react-shop-app/static/js/main.9d30ac6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceba8439.css",
+    "static/js/main.9d30ac6a.js"
+  ]
+}
